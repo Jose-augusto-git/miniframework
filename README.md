@@ -1,2 +1,3 @@
 # miniframework
- MVC e a preparação da estrutura do projeto
+
+Arquitetura MVC com PHP
